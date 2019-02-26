@@ -61,5 +61,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>MapillaryClientId</key>
+	<string>ZGpQUVA3d3A5LV9hTENSTlpKQ2txUTphOWI0ZjYwMDFiNjdkNmY4</string>
+	<key>MapillaryCallbackUrl</key>
+	<string>de.mapillary.MapillarySDKExample</string>
 </dict>
 </plist>

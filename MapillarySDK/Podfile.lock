@@ -14,13 +14,13 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - AWSCore (2.6.22)
-  - AWSS3 (2.6.22):
-    - AWSCore (= 2.6.22)
+  - AWSCore (2.9.1)
+  - AWSS3 (2.9.1):
+    - AWSCore (= 2.9.1)
   - BOSImageResizeOperation (0.1.0)
   - NSHash (1.2.0)
   - OCHamcrest (7.1.1)
-  - OCMockito (5.1.0):
+  - OCMockito (5.1.1):
     - OCHamcrest (~> 7.0)
   - PodAsset (0.22.0)
   - SAMKeychain (1.5.3)
@@ -52,12 +52,12 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  AWSCore: faae134779f0f6e46a8d426c0ccc02e34466b785
-  AWSS3: 2b70463225a455ba26494f06346bddb74dedf73d
+  AWSCore: de39c337b7cb32c7a2c6402f45ecf4e50498000e
+  AWSS3: 1feca899851eb4d45ca16860e441da658e1b852d
   BOSImageResizeOperation: 457aafe464729572cac69cc89dce0e2e1450edaa
   NSHash: 036c03781d372c288d332b512b203e7bb832e46e
   OCHamcrest: 3506736397451c35d8763ff0a9b13492e544115f
-  OCMockito: f420d00dc5ffbb7452f9f499cd1766e6583d61a5
+  OCMockito: eccb29c256cbdd6c7bc206718cbb06ef737daa8b
   PodAsset: d9d35b6a86ceaeaead63692a1bce27b4aea243b3
   SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
   SDVersion: 18f32c835c1543611fcfae3c6accd9a04b90597e
